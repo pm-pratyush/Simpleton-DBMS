@@ -1,0 +1,26 @@
+BufferManager::BufferManager
+ParseQuery::clear
+
+Reading New Command: 
+LOAD TESTSM
+doCommand
+syntacticParse
+syntacticParseLOAD
+semanticParse
+semanticParseLOAD
+TableCatalogue::isTable
+ParseQuery::clear
+
+Reading New Command: 
+LOAD TESTSM
+doCommand
+syntacticParse
+syntacticParseLOAD
+semanticParse
+semanticParseLOAD
+TableCatalogue::isTable
+ParseQuery::clear
+
+Reading New Command: 
+QUIT
+TableCatalogue::~TableCatalogue
